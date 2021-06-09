@@ -36,8 +36,13 @@
 - finances
 - due date(s), milestones
 	-	more manpower?
+	-	july, pitch -> working product impossible
+	-	around september goal -> probably unachievable, delays acceptable
 - handling of frontend (who, what is needed mutually)
+	-	to be discussed with responsible people
 - what should the feed do?
+	-	museums post infos, users only interact
 - what makes up a tour?
 	-	what is a station?
 	-	what properties does a tour have?
+	-	see userflow diagramm -> onedrive
